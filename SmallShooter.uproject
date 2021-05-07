@@ -8,6 +8,15 @@
 			"Name": "AntColony",
 			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/4216bf4c46e94d8a8f245ae618982e1f"
+		},
+		{
+			"Name": "GraphPrinter",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/466303b6cd724968b3ee0a1a1b623f4b"
+		},
+		{
+			"Name": "SunPosition",
+			"Enabled": true
 		}
 	]
 }
